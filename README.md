@@ -240,4 +240,4 @@ This repository serves as the official landing page for Your Uninstaller!. The s
 **Get the most recent version of Your Uninstaller! today!**
 
 ---
-**Last updated:** 2026-10-09 16:48:30 UTC
+**Last updated:** 2026-10-09 21:25:55 UTC
